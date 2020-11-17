@@ -1,0 +1,27 @@
+p{
+  text-align: center;
+  font-size: 150px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 50px;
+  columns:black;
+}
+
+.btn{
+  text-align: center;
+
+}
+
+.updownbtn{
+  border-radius: 10%;
+  background-color:white;
+}
+
+.btnfont{
+  font-family:Verdana;
+  font-size: 30px;
+  color:black;
+}
+
+body{
+  background-color:whitesmoke;
+}
